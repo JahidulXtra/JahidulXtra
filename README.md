@@ -18,10 +18,10 @@ I am Jahidul Hassan Parvez from Bangladesh. Coding and web development are my pa
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VS Code" />
+  <a href="#-languages--tools"><img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML5" /></a>
+  <a href="#-languages--tools"><img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS3" /></a>
+  <a href="#-languages--tools"><img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript" /></a>
+  <a href="#-languages--tools"><img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VS Code" /></a>
 </p>
 
 ---
